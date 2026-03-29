@@ -10,8 +10,11 @@
             <a href="https://www.linkedin.com/in/hyebeen-han-abba96359/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyebeen han" height="20" width="30" /></a>
             <a href="https://www.behance.net/b282d689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hyebeen han" height="25" width="30" /></a>
         </h3>
-        <h3 style="display: inline;">📚 Educationㅤㅤ  ㅤSeoul Women’s University </h3>
-         ㅤㅤ   ㅤㅤㅤ   ㅤㅤ   ㅤㅤ    ㅤ ㅤDepartment of Digital Media Design and Applications
+        <h3 style="display: inline;">📚 Educationㅤㅤ  ㅤ- Seoul Women’s University </h3>
+         ㅤㅤ   ㅤㅤㅤ   ㅤㅤ   ㅤㅤ    ㅤ ㅤ  ㅤDepartment of Digital Media Design and Applications
+        <h3 style="display: inline;">ㅤㅤ  ㅤㅤㅤ  ㅤㅤㅤ   ㅤ- Apple Developer Academy @ POSTECH </h3>
+         ㅤㅤ   ㅤㅤㅤ   ㅤㅤ   ㅤㅤ    ㅤ ㅤ  ㅤcohort 2025 Tech, PM
+        <h3 style="display: inline;">🏆 Award  ㅤㅤㅤㅤㅤSwift Student Challenge 2026 Winner </h3>
     </div>
 </div>
 <br>
